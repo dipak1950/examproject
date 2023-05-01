@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "img": "https://awsimages.detik.net.id/community/media/visual/2018/11/08/d837d70e-e1d8-4347-83b0-a825fae74919_169.jpeg?w=650",
+      "title": "Women's Wear",
+      "details": "Women's wear is outfits made specifically for and worn by women. Salwar suits, saaris, lehnga etc. in Indian tradition and Skirts, shirts, sweaters, trousers, coats, chemises, and jeans, etc., in western countries are examples of common women's clothing.",
+      "price": "999",
+      "id": 1
+    },
+    {
+      "img": "https://avatars.dzeninfra.ru/get-zen_doc/1712337/pub_6230f07f1d49bf73fcf7bc14_6230f203f50fe63ee943713c/scale_1200",
+      "title": "Men's Wear",
+      "details": "Men's clothes are articles of clothing designed for and worn by men. Typical men's clothes include trousers, shirts, jeans, suits, sweaters, gloves, jackets, and hats. However, the majority of those clothing items are also items of women's clothing.",
+      "price": "1299",
+      "id": 2
+    },
+    {
+      "img": "https://lechodraui.com/wp-content/uploads/2013/08/dolce-and-gabbana-fw-2014-kids-collection-48.jpg",
+      "title": "Kid's Wear",
+      "details": "Children's clothing or kids' clothing is clothing for children who have not yet grown to full height. Children's clothing is often more casual than adult clothing, fit for play and rest.  In the early 21st century, however, childrenswear became heavily influenced..",
+      "price": "799",
+      "id": 3
+    },
+    {
+      "img": "https://awsimages.detik.net.id/community/media/visual/2018/11/08/d837d70e-e1d8-4347-83b0-a825fae74919_169.jpeg?w=650",
+      "title": "Women's Wear",
+      "details": "Women's wear is outfits made specifically for and worn by women. Salwar suits, saaris, lehnga etc. in Indian tradition and Skirts, shirts, sweaters, trousers, coats, chemises, and jeans, etc., in western countries are examples of common women's clothing.",
+      "price": "999",
+      "id": 4
+    },
+    {
+      "img": "https://avatars.dzeninfra.ru/get-zen_doc/1712337/pub_6230f07f1d49bf73fcf7bc14_6230f203f50fe63ee943713c/scale_1200",
+      "title": "Men's Wear",
+      "details": "Men's clothes are articles of clothing designed for and worn by men. Typical men's clothes include trousers, shirts, jeans, suits, sweaters, gloves, jackets, and hats. However, the majority of those clothing items are also items of women's clothing.",
+      "price": "1299",
+      "id": 5
+    },
+    {
+      "img": "https://lechodraui.com/wp-content/uploads/2013/08/dolce-and-gabbana-fw-2014-kids-collection-48.jpg",
+      "title": "Kid's Wear",
+      "details": "Children's clothing or kids' clothing is clothing for children who have not yet grown to full height. Children's clothing is often more casual than adult clothing, fit for play and rest.  In the early 21st century, however, childrenswear became heavily influenced..",
+      "price": "799",
+      "id": 6
+    },
+    {
+      "img": "https://awsimages.detik.net.id/community/media/visual/2018/11/08/d837d70e-e1d8-4347-83b0-a825fae74919_169.jpeg?w=650",
+      "title": "Women's Wear",
+      "details": "Women's wear is outfits made specifically for and worn by women. Salwar suits, saaris, lehnga etc. in Indian tradition and Skirts, shirts, sweaters, trousers, coats, chemises, and jeans, etc., in western countries are examples of common women's clothing.",
+      "price": "999",
+      "id": 7
+    },
+    {
+      "img": "https://avatars.dzeninfra.ru/get-zen_doc/1712337/pub_6230f07f1d49bf73fcf7bc14_6230f203f50fe63ee943713c/scale_1200",
+      "title": "Men's Wear",
+      "details": "Men's clothes are articles of clothing designed for and worn by men. Typical men's clothes include trousers, shirts, jeans, suits, sweaters, gloves, jackets, and hats. However, the majority of those clothing items are also items of women's clothing.",
+      "price": "1299",
+      "id": 8
+    },
+    {
+      "img": "https://lechodraui.com/wp-content/uploads/2013/08/dolce-and-gabbana-fw-2014-kids-collection-48.jpg",
+      "title": "Kid's Wear",
+      "details": "Children's clothing or kids' clothing is clothing for children who have not yet grown to full height. Children's clothing is often more casual than adult clothing, fit for play and rest.  In the early 21st century, however, childrenswear became heavily influenced..",
+      "price": "799",
+      "id": 9
+    },
+    {
+      "img": "https://awsimages.detik.net.id/community/media/visual/2018/11/08/d837d70e-e1d8-4347-83b0-a825fae74919_169.jpeg?w=650",
+      "title": "Women's Wear",
+      "details": "Women's wear is outfits made specifically for and worn by women. Salwar suits, saaris, lehnga etc. in Indian tradition and Skirts, shirts, sweaters, trousers, coats, chemises, and jeans, etc., in western countries are examples of common women's clothing.",
+      "price": "999",
+      "id": 10
+    },
+    {
+      "img": "https://avatars.dzeninfra.ru/get-zen_doc/1712337/pub_6230f07f1d49bf73fcf7bc14_6230f203f50fe63ee943713c/scale_1200",
+      "title": "Men's Wear",
+      "details": "Men's clothes are articles of clothing designed for and worn by men. Typical men's clothes include trousers, shirts, jeans, suits, sweaters, gloves, jackets, and hats. However, the majority of those clothing items are also items of women's clothing.",
+      "price": "1299",
+      "id": 11
+    },
+    {
+      "img": "https://lechodraui.com/wp-content/uploads/2013/08/dolce-and-gabbana-fw-2014-kids-collection-48.jpg",
+      "title": "Kid's Wear",
+      "details": "Children's clothing or kids' clothing is clothing for children who have not yet grown to full height. Children's clothing is often more casual than adult clothing, fit for play and rest.  In the early 21st century, however, childrenswear became heavily influenced..",
+      "price": "799",
+      "id": 12
+    }
+  ]
+}

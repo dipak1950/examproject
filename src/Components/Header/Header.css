@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar img {
+    height: auto;
+    width: 25%;
+    display: block;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar a {
+    color: aliceblue;
+}
